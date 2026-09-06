@@ -4,3 +4,5 @@ This is my first version of KOY_OS i spent 3 days to build this from scratch, I 
 
 
 ## #BE_MY_KOY
+
+### I hope whoever will see this repo will make something good with this and Yes, I am not being Sir Linus Torvald.
